@@ -1,10 +1,10 @@
-MSDS DSC500 Introduction to Data Science
+## MSDS DSC500 Introduction to Data Science
 
-Course Description:
+### Course Description:
 
 This course introduces the possibilities, history, and ethics surrounding Data Science. Basics of data science are explored, including vocabulary, programming languages, big data frameworks, visualization, and statistics. Prior programming experience is not needed for this course.
 
-Course Objectives:
+### Course Objectives:
 
 1. Describe the skills needed to be a data scientist.
 2. Demonstrate an understanding of the data science process.
@@ -13,7 +13,7 @@ Course Objectives:
 5. Explain the purpose of various programming languages used in data science.
 6. Develop a portfolio of data science projects.
 
-Course Notes:
+### Course Notes:
 
 This course was the first in the program, and proved to be a great study in getting started in data science.
 
